@@ -184,7 +184,11 @@ function App() {
         <div className="auth-shell">
           <div className="auth-card">
             <p className="eyebrow">Secure sign in</p>
-            <h1>Welcome back to Ankit_Pandey_Demo_Ecommerce.com</h1>
+            <h1>
+              Ankit Pandey
+              <br />
+              Demo Ecommerce Website
+            </h1>
             <p className="hero-text">
               Use the demo credentials below to access the shopping experience and complete a realistic purchase flow.
             </p>
